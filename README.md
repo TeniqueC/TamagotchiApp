@@ -24,6 +24,7 @@ Features
 •	Feed your Tamagotchi to increase its hunger and revive it if health is critically low.
 •	Bathe your Tamagotchi to increase its cleanliness and revive it if health is critically low.
 •	Entertain your Tamagotchi to increase its health and slightly decrease its hunger and cleanliness. However, health will only increase significantly if hunger and cleanliness are above a certain threshold.
+
 ![image](https://github.com/TeniqueC/TamagotchiApp/assets/163857386/65c21237-35ff-4b8c-9cb2-cda8f86375dd)
 
 Gameplay 
@@ -31,6 +32,7 @@ Gameplay
 •	Tapping a button will update the corresponding stat and the pet's image based on its health.
 •	The goal is to maintain your Tamagotchi's hunger, health, and cleanliness within healthy ranges.
 Note: If your Tamagotchi's health reaches 0, it will die (the app won't crash though).
+
 ![image](https://github.com/TeniqueC/TamagotchiApp/assets/163857386/c004baf9-8f9f-4655-be0e-72c81c2acb9e)
 ![image](https://github.com/TeniqueC/TamagotchiApp/assets/163857386/fa7df6c8-1deb-4f15-8dc6-42d46f750e4b)
 ![image](https://github.com/TeniqueC/TamagotchiApp/assets/163857386/3633c5e1-e6a3-44ff-9230-1d2cc62d9aa4)
