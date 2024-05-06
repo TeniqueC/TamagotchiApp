@@ -1,4 +1,5 @@
 Tamagotchi App in Kotlin : A digital Pet Companion
+
 This README delves into a Kotlin-based Android application that brings the essence of the classic Tamagotchi to life. Users nurture a virtual pet by fulfilling its basic needs and monitoring its health through interactive elements.
 
 Getting started:
